@@ -11,6 +11,7 @@
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Preetal Shah] (https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
+- Sumit (https://github.com/sumit-factors-ai)
 - [Sam Candela](https://github.com/samc18)
 - [Zhan Guang](https://github.com/zhan3333)
 - [Sidabw](https://github.com/Sidabw)
